@@ -1,11 +1,11 @@
-# 🎲 Ludo Game (Python + Pygame)
+# 🎲 Ludo PYGame 
 
 This is a basic GUI version of the **Ludo Board Game**, built using Python and the Pygame library.
 
-## 📸 Preview
+## Preview
 Currently, it shows a game window with a red placeholder square. Full features like board, dice, and token movement can be added.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone this repository or download the ZIP
 ```bash
@@ -40,5 +40,6 @@ ludo-game/
 - [ ] Token movement
 - [ ] Win condition logic
 
-## 👨‍💻 Author
-Your Name Here
+## Author
+VINITH S
+
